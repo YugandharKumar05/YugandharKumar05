@@ -9,8 +9,9 @@
 - 🧪 Experience in **QA Testing & Application Support**
 - 👯 I’m looking to collaborate on **Android & Mobile App Projects**
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, UI/UX, Mobile App Development**
-- 📫 How to reach me: **yugandharkumar05@gmail.com** / [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YugandharKumar05)
-- 🚀 Available for **Freelance Mobile App Projects**
+- 📫 How to reach me: **yugandharkumar05@gmail.com**  
+- 💼 LinkedIn: [Yugandhar Kumar](https://linkedin.com/in/YugandharKumar05)
+- - 🚀 Available for **Freelance Mobile App Projects**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YugandharKumar05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yugandharkumar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1905480) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugandharkumar05@gmail.com) 
