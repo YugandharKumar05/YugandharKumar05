@@ -1,6 +1,16 @@
-# 💫 About Me:
-I'm currently working as an Android Developer at Enmovil Solutions and skils are Android Development, kotlin, jetpack compose, etc.,<br>I'm looking to collobarate and available for freelance projects
+## Hi there 👋 I'm Yugandhar
 
+🚀 Passionate Mobile App Developer with experience in building scalable and user-friendly mobile applications.
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working as an **Android Developer at Enmovil Solutions**
+- 🌱 I’m currently learning **iOS Development & Flutter**
+- 💡 Skilled in **Android Development, Kotlin, Jetpack Compose, MVVM, Clean Architecture**
+- 🧪 Experience in **QA Testing & Application Support**
+- 👯 I’m looking to collaborate on **Android & Mobile App Projects**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose, UI/UX, Mobile App Development**
+- 📫 How to reach me: **your-email@example.com** / LinkedIn
+- 🚀 Available for **Freelance Mobile App Projects**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YugandharKumar05) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Yugandharkumar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1905480) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yugandharkumar05@gmail.com) 
