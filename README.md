@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Android & Mobile App Projects**
 - 💬 Ask me about **Android, Kotlin, Jetpack Compose, UI/UX, Mobile App Development**
 - 📫 How to reach me: **yugandharkumar05@gmail.com**  
-- 💼 LinkedIn: [Yugandhar Kumar](https://linkedin.com/in/YugandharKumar05)
+- 💼 LinkedIn: [Yugandhar Kumar](https://www.linkedin.com/in/yugandhar-kumar-dharmavarapu/)
 - - 🚀 Available for **Freelance Mobile App Projects**
 
 ## 🌐 Socials:
